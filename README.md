@@ -7,7 +7,7 @@ Now, deans, department chairs, and faculty have **real-time and historical insig
 ---
 
 ## 📂 Contents  
-- **`ORU_PowerBI_Sample_Report.pdf`** – Exported pages from the original dashboard.  
+- **`Sample PowerBI Report.pdf`** – Exported pages from the original dashboard.  
 
 ---
 
